@@ -1,0 +1,15 @@
+{
+  "name": "nodefun",
+  "version": "1.0.0",
+  "description": "Having some node fun!",
+  "main": "server/server.js",
+  "scripts": {
+    "sunshine": "node album-downloader.js"
+  },
+  "author": "Jesse",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
